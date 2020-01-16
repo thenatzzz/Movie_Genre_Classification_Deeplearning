@@ -2,7 +2,7 @@
 # CMPT-726 Machine Learning (Simon Fraser University)
 # Group members:Nattapat Juthaprachakul, Rui Wang, Siyu Wu, Yihan Lan
 
-# Movie Genre Classification by its posters and overview
+## Movie Genre Classification by its posters and overview
 ## Methods
 * 1. Convolutional Neural Networks on poster datasets
 * 2. Random Forest on movie overviews
