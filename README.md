@@ -3,7 +3,7 @@
 #### Group members: Nattapat Juthaprachakul, Rui Wang, Siyu Wu, Yihan Lan
 
 ### Abstract
-The film industry increasing relies upon movie posters and overviews in order to attract public attention in the hopes of generating huge profit and viewership. A genre of movie is one of the very important factors that helps movie goers decide which movies they want to spend time and money on.
+The film industry increasingly relies upon movie posters and overviews in order to attract public attention in the hopes of generating huge profit and viewership. A genre of movie is one of the very important factors that helps movie goers decide which movies they want to spend time and money on.
 
 The project uses a poster and overview of movie to predict its genre. Therefore, our goal is to build and compare several multilabel-multiclass classification models based on classical machine learning algorithm and deeplearning-based models.
 
